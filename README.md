@@ -26,4 +26,4 @@ Contributors names and contact info
 
 Links
 
-- [Odin Project](https://www.theodinproject.com/lessons/foundations-recipes)
+- [Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page)
